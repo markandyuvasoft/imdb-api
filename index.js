@@ -1,6 +1,6 @@
 let key = "8c57a2f7"
 
-let api = "http://www.omdbapi.com/?i=tt3896198"
+let api = "https://www.omdbapi.com/?i=tt3896198"
 
 
 let main_div = document.getElementById("main")
